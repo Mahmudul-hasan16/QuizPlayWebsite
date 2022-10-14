@@ -1,3 +1,20 @@
+#Project Name
+==quizPlay==
+
+#Features
+1.QuizExam
+2.Quiz Subject selections
+3.Statistics
+4.Blog
+5.MCQ type question
+6.See correct Answer
+7.See total mark
+
+#Description
+Here people attend to 4 type MCQ exam,There are React,JavaScript,CSS and GIT.From this site people verified their knowledge for those topic.This show right answer from select any option.So people see instantly their answer is right or wrong and count their total right answer.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
